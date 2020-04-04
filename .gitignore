@@ -1,0 +1,7 @@
+node_modules/
+coverage
+yarn-error.log
+.idea
+*.d.ts
+index.test.js
+index.js

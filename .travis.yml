@@ -1,0 +1,13 @@
+language: node_js
+node_js:
+- '8'
+- '10'
+install:
+- yarn
+script:
+- yarn test
+- yarn coverage
+- yarn codecov
+env:
+  global:
+    secure: rZ0VOvXoRsV9VXuurN+xjrKXg4gkc0v4aZlSd57gm4klzUE77yKYYz36aBtTi/rbed5u9vqPbb+ag0tNULiqJ4e7DE7XqQD/ZmyqfVeNFSz/9ndPAc7qbT9x9/ruK8pEGrO3jZI1C3KAoOJGWsOUPNIodBCYoOCAl3W6lTvUAR2RxwZWHHea8xS48Bg0gU3mGunSqieWv1zhgYvpFNGR/mABFn55P3giEcCivQTFP479ECMo2ik/5uMVB/0VIotLCxKyRKn2GHtDGEm1aeW9vmSLb1rJ9a3bglHunVGDunJX0RZA8OonsTXdhkRAzhY+kToPABRQqw9dProJVwgN+BHHPwjp7wmc+w+camVru9Pc4Ev5Y9tCLyLH/BOWjQDLIGF0PBUyE9BhOEhmG3omoKL7d86JtN8zlvx1z+rlKeOb89XK/cG02y6x5fVRCW0giZnIPotFnLsoDa7DHPflWSJVGGSBJ288zAR1EhfRhOVbnBEIHvR4PfXgA6wP/Tc3Qf8CCCwO70AB5VpmSDEXm4yjuOY8UssMMQRZ0cUTx/PrPNSUSGoaFXlrQF7qDjsgEK6bBPay0+owxJ0ihczktZhHo6ZLbkSPd7VdXwR6Q9ZQY9d8fgBi8zfoIh+/xEE+MuMxtNknCPmpg01gd5zufojagchU76zcqSCRawOOOco=
