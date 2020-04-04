@@ -1,6 +1,6 @@
 {
-  "name": "rfc3986",
-  "version": "0.0.1",
+  "name": "r3986",
+  "version": "0.0.2",
   "description": "RFC3986 implementation",
   "main": "index.js",
   "repository": "https://github.com/tranvansang/rfc3986",
