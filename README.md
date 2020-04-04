@@ -1,4 +1,4 @@
-# Flip Promise [![Build Status](https://travis-ci.org/tranvansang/rfc3986.svg?branch=master)](https://travis-ci.org/tranvansang/rfc3986)
+# RFC3986 [![Build Status](https://travis-ci.org/tranvansang/rfc3986.svg?branch=master)](https://travis-ci.org/tranvansang/rfc3986)
 [![NPM](https://nodei.co/npm/rfc3986.png)](https://nodei.co/npm/rfc3986/)
 
 ![Codecov block](https://codecov.io/gh/tranvansang/rfc3986/branch/master/graphs/tree.svg)
