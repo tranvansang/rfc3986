@@ -9,7 +9,4 @@
    normalizers should use uppercase hexadecimal digits for all percent-
    encodings.
  */
-export default function r3986(plain: string){
-	return encodeURIComponent(plain)
-		.replace(/[!'()*]/g, c => `%${c.charCodeAt(0).toString(16).toUpperCase()}`)
-}
+export default function r3986(plain: string): string;
