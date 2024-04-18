@@ -1,6 +1,6 @@
 {
   "name": "r3986",
-  "version": "0.0.4",
+  "version": "0.0.5",
   "description": "RFC3986 implementation",
   "main": "index.js",
   "exports": {
